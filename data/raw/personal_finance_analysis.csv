@@ -1,0 +1,285 @@
+Date,Income,Expense,Category,Payment_Method,Notes
+2025-07-01,0,102,Entertainment,Cash,Simulated transaction
+2025-07-01,0,30,Education,Cash,Simulated transaction
+2025-07-02,0,84,Healthcare,Cash,Simulated transaction
+2025-07-02,0,126,Education,Transfer,Simulated transaction
+2025-07-02,0,140,Education,Debit Card,Simulated transaction
+2025-07-03,0,97,Groceries,Transfer,Simulated transaction
+2025-07-04,0,139,Utilities,Transfer,Simulated transaction
+2025-07-04,0,67,Dining Out,Debit Card,Simulated transaction
+2025-07-05,0,58,Shopping,Cash,Simulated transaction
+2025-07-06,0,117,Transportation,Cash,Simulated transaction
+2025-07-06,0,73,Entertainment,Credit Card,Simulated transaction
+2025-07-07,0,60,Dining Out,Cash,Simulated transaction
+2025-07-07,0,82,Dining Out,Cash,Simulated transaction
+2025-07-07,0,141,Groceries,Credit Card,Simulated transaction
+2025-07-08,0,18,Groceries,Debit Card,Simulated transaction
+2025-07-08,0,139,Dining Out,Transfer,Simulated transaction
+2025-07-09,0,17,Healthcare,Cash,Simulated transaction
+2025-07-09,0,90,Transportation,Transfer,Simulated transaction
+2025-07-09,0,113,Groceries,Transfer,Simulated transaction
+2025-07-10,0,63,Utilities,Debit Card,Simulated transaction
+2025-07-10,0,63,Entertainment,Credit Card,Simulated transaction
+2025-07-11,0,53,Groceries,Debit Card,Simulated transaction
+2025-07-11,0,23,Entertainment,Cash,Simulated transaction
+2025-07-12,0,49,Education,Credit Card,Simulated transaction
+2025-07-12,0,120,Groceries,Credit Card,Simulated transaction
+2025-07-12,0,133,Education,Credit Card,Simulated transaction
+2025-07-14,0,18,Healthcare,Transfer,Simulated transaction
+2025-07-15,2628,90,Transportation,Transfer,Simulated transaction
+2025-07-15,0,42,Transportation,Cash,Simulated transaction
+2025-07-15,0,50,Dining Out,Transfer,Simulated transaction
+2025-07-16,0,81,Shopping,Transfer,Simulated transaction
+2025-07-16,0,42,Groceries,Transfer,Simulated transaction
+2025-07-16,0,71,Healthcare,Transfer,Simulated transaction
+2025-07-17,0,113,Transportation,Debit Card,Simulated transaction
+2025-07-18,0,110,Transportation,Cash,Simulated transaction
+2025-07-18,0,10,Transportation,Credit Card,Simulated transaction
+2025-07-19,0,36,Healthcare,Credit Card,Simulated transaction
+2025-07-20,0,72,Transportation,Transfer,Simulated transaction
+2025-07-21,0,105,Entertainment,Transfer,Simulated transaction
+2025-07-21,0,38,Dining Out,Transfer,Simulated transaction
+2025-07-22,0,95,Healthcare,Transfer,Simulated transaction
+2025-07-23,0,143,Shopping,Transfer,Simulated transaction
+2025-07-24,0,101,Healthcare,Credit Card,Simulated transaction
+2025-07-25,0,36,Shopping,Debit Card,Simulated transaction
+2025-07-26,0,12,Entertainment,Cash,Simulated transaction
+2025-07-27,0,146,Education,Debit Card,Simulated transaction
+2025-07-27,0,60,Dining Out,Debit Card,Simulated transaction
+2025-07-28,0,105,Utilities,Transfer,Simulated transaction
+2025-07-28,0,122,Shopping,Debit Card,Simulated transaction
+2025-07-29,0,21,Entertainment,Debit Card,Simulated transaction
+2025-07-29,0,139,Healthcare,Cash,Simulated transaction
+2025-08-01,0,63,Groceries,Cash,Simulated transaction
+2025-08-01,0,138,Dining Out,Cash,Simulated transaction
+2025-08-02,0,62,Groceries,Transfer,Simulated transaction
+2025-08-03,0,77,Healthcare,Cash,Simulated transaction
+2025-08-03,0,132,Education,Credit Card,Simulated transaction
+2025-08-04,0,33,Utilities,Credit Card,Simulated transaction
+2025-08-04,0,107,Entertainment,Debit Card,Simulated transaction
+2025-08-04,0,148,Utilities,Cash,Simulated transaction
+2025-08-05,0,133,Shopping,Cash,Simulated transaction
+2025-08-06,0,99,Transportation,Cash,Simulated transaction
+2025-08-06,0,105,Transportation,Cash,Simulated transaction
+2025-08-08,0,113,Groceries,Credit Card,Simulated transaction
+2025-08-08,0,51,Shopping,Cash,Simulated transaction
+2025-08-08,0,99,Healthcare,Transfer,Simulated transaction
+2025-08-09,0,69,Entertainment,Credit Card,Simulated transaction
+2025-08-10,0,46,Dining Out,Transfer,Simulated transaction
+2025-08-11,0,18,Healthcare,Credit Card,Simulated transaction
+2025-08-11,0,57,Transportation,Transfer,Simulated transaction
+2025-08-11,0,63,Transportation,Transfer,Simulated transaction
+2025-08-12,0,125,Education,Cash,Simulated transaction
+2025-08-13,0,113,Education,Transfer,Simulated transaction
+2025-08-14,0,121,Transportation,Debit Card,Simulated transaction
+2025-08-14,0,108,Shopping,Credit Card,Simulated transaction
+2025-08-15,3360,63,Groceries,Cash,Simulated transaction
+2025-08-15,0,77,Shopping,Credit Card,Simulated transaction
+2025-08-16,0,57,Dining Out,Transfer,Simulated transaction
+2025-08-16,0,137,Education,Transfer,Simulated transaction
+2025-08-17,0,137,Transportation,Credit Card,Simulated transaction
+2025-08-17,0,128,Transportation,Debit Card,Simulated transaction
+2025-08-17,0,118,Utilities,Cash,Simulated transaction
+2025-08-18,0,36,Education,Cash,Simulated transaction
+2025-08-18,0,30,Groceries,Debit Card,Simulated transaction
+2025-08-20,0,13,Transportation,Cash,Simulated transaction
+2025-08-22,0,15,Dining Out,Cash,Simulated transaction
+2025-08-22,0,46,Shopping,Transfer,Simulated transaction
+2025-08-24,0,104,Dining Out,Cash,Simulated transaction
+2025-08-25,0,76,Dining Out,Transfer,Simulated transaction
+2025-08-25,0,34,Groceries,Debit Card,Simulated transaction
+2025-08-25,0,67,Utilities,Cash,Simulated transaction
+2025-08-26,0,123,Education,Transfer,Simulated transaction
+2025-08-26,0,136,Utilities,Cash,Simulated transaction
+2025-08-27,0,26,Groceries,Transfer,Simulated transaction
+2025-08-28,0,48,Utilities,Credit Card,Simulated transaction
+2025-08-29,0,35,Healthcare,Cash,Simulated transaction
+2025-08-29,0,22,Groceries,Transfer,Simulated transaction
+2025-08-30,3005,45,Shopping,Credit Card,Simulated transaction
+2025-08-30,0,74,Entertainment,Transfer,Simulated transaction
+2025-08-30,0,101,Transportation,Debit Card,Simulated transaction
+2025-08-31,0,95,Healthcare,Cash,Simulated transaction
+2025-08-31,0,72,Shopping,Debit Card,Simulated transaction
+2025-09-01,0,67,Utilities,Debit Card,Simulated transaction
+2025-09-02,0,79,Entertainment,Cash,Simulated transaction
+2025-09-03,0,17,Dining Out,Credit Card,Simulated transaction
+2025-09-03,0,112,Dining Out,Transfer,Simulated transaction
+2025-09-04,0,103,Entertainment,Cash,Simulated transaction
+2025-09-04,0,64,Transportation,Transfer,Simulated transaction
+2025-09-05,0,133,Groceries,Debit Card,Simulated transaction
+2025-09-06,0,129,Transportation,Cash,Simulated transaction
+2025-09-06,0,101,Transportation,Debit Card,Simulated transaction
+2025-09-07,0,126,Dining Out,Debit Card,Simulated transaction
+2025-09-07,0,136,Healthcare,Credit Card,Simulated transaction
+2025-09-10,0,105,Groceries,Debit Card,Simulated transaction
+2025-09-10,0,57,Utilities,Credit Card,Simulated transaction
+2025-09-10,0,126,Education,Credit Card,Simulated transaction
+2025-09-11,0,78,Healthcare,Debit Card,Simulated transaction
+2025-09-12,0,85,Healthcare,Debit Card,Simulated transaction
+2025-09-13,0,95,Dining Out,Credit Card,Simulated transaction
+2025-09-13,0,56,Dining Out,Credit Card,Simulated transaction
+2025-09-13,0,94,Entertainment,Cash,Simulated transaction
+2025-09-14,0,32,Dining Out,Debit Card,Simulated transaction
+2025-09-15,3021,109,Dining Out,Debit Card,Simulated transaction
+2025-09-15,0,147,Entertainment,Debit Card,Simulated transaction
+2025-09-16,0,78,Education,Credit Card,Simulated transaction
+2025-09-17,0,137,Groceries,Transfer,Simulated transaction
+2025-09-17,0,149,Entertainment,Debit Card,Simulated transaction
+2025-09-17,0,133,Transportation,Credit Card,Simulated transaction
+2025-09-18,0,110,Transportation,Transfer,Simulated transaction
+2025-09-19,0,83,Education,Cash,Simulated transaction
+2025-09-20,0,44,Groceries,Cash,Simulated transaction
+2025-09-23,0,124,Groceries,Credit Card,Simulated transaction
+2025-09-24,0,67,Entertainment,Credit Card,Simulated transaction
+2025-09-24,0,84,Groceries,Credit Card,Simulated transaction
+2025-09-24,0,30,Education,Credit Card,Simulated transaction
+2025-09-25,0,147,Entertainment,Credit Card,Simulated transaction
+2025-09-26,0,108,Education,Transfer,Simulated transaction
+2025-09-27,0,105,Healthcare,Transfer,Simulated transaction
+2025-09-28,0,21,Dining Out,Credit Card,Simulated transaction
+2025-09-28,0,22,Healthcare,Cash,Simulated transaction
+2025-09-28,0,108,Shopping,Credit Card,Simulated transaction
+2025-09-30,2561,28,Utilities,Credit Card,Simulated transaction
+2025-10-01,0,85,Shopping,Credit Card,Simulated transaction
+2025-10-02,0,92,Entertainment,Debit Card,Simulated transaction
+2025-10-02,0,78,Dining Out,Cash,Simulated transaction
+2025-10-02,0,132,Shopping,Credit Card,Simulated transaction
+2025-10-03,0,66,Healthcare,Cash,Simulated transaction
+2025-10-04,0,51,Dining Out,Debit Card,Simulated transaction
+2025-10-05,0,84,Dining Out,Debit Card,Simulated transaction
+2025-10-05,0,83,Shopping,Debit Card,Simulated transaction
+2025-10-06,0,16,Utilities,Debit Card,Simulated transaction
+2025-10-07,0,146,Education,Debit Card,Simulated transaction
+2025-10-08,0,14,Groceries,Credit Card,Simulated transaction
+2025-10-08,0,92,Dining Out,Transfer,Simulated transaction
+2025-10-10,0,80,Entertainment,Credit Card,Simulated transaction
+2025-10-10,0,45,Entertainment,Debit Card,Simulated transaction
+2025-10-11,0,117,Transportation,Debit Card,Simulated transaction
+2025-10-11,0,100,Healthcare,Debit Card,Simulated transaction
+2025-10-12,0,135,Healthcare,Cash,Simulated transaction
+2025-10-12,0,135,Groceries,Debit Card,Simulated transaction
+2025-10-12,0,70,Entertainment,Cash,Simulated transaction
+2025-10-13,0,10,Healthcare,Cash,Simulated transaction
+2025-10-14,0,122,Shopping,Credit Card,Simulated transaction
+2025-10-15,3323,126,Utilities,Debit Card,Simulated transaction
+2025-10-16,0,89,Dining Out,Debit Card,Simulated transaction
+2025-10-16,0,29,Dining Out,Credit Card,Simulated transaction
+2025-10-17,0,58,Shopping,Debit Card,Simulated transaction
+2025-10-18,0,127,Utilities,Cash,Simulated transaction
+2025-10-19,0,21,Shopping,Debit Card,Simulated transaction
+2025-10-19,0,111,Education,Transfer,Simulated transaction
+2025-10-19,0,126,Education,Transfer,Simulated transaction
+2025-10-20,0,99,Entertainment,Transfer,Simulated transaction
+2025-10-21,0,50,Dining Out,Transfer,Simulated transaction
+2025-10-21,0,55,Utilities,Cash,Simulated transaction
+2025-10-22,0,91,Utilities,Cash,Simulated transaction
+2025-10-23,0,19,Shopping,Transfer,Simulated transaction
+2025-10-24,0,118,Groceries,Credit Card,Simulated transaction
+2025-10-24,0,42,Healthcare,Debit Card,Simulated transaction
+2025-10-25,0,20,Groceries,Credit Card,Simulated transaction
+2025-10-26,0,95,Shopping,Cash,Simulated transaction
+2025-10-28,0,108,Shopping,Cash,Simulated transaction
+2025-10-29,0,15,Healthcare,Transfer,Simulated transaction
+2025-10-30,3476,111,Dining Out,Cash,Simulated transaction
+2025-10-31,0,62,Healthcare,Credit Card,Simulated transaction
+2025-11-01,0,94,Transportation,Debit Card,Simulated transaction
+2025-11-03,0,122,Entertainment,Transfer,Simulated transaction
+2025-11-03,0,101,Groceries,Cash,Simulated transaction
+2025-11-03,0,48,Education,Debit Card,Simulated transaction
+2025-11-04,0,127,Groceries,Cash,Simulated transaction
+2025-11-04,0,21,Groceries,Credit Card,Simulated transaction
+2025-11-05,0,66,Dining Out,Credit Card,Simulated transaction
+2025-11-05,0,94,Healthcare,Debit Card,Simulated transaction
+2025-11-06,0,112,Transportation,Debit Card,Simulated transaction
+2025-11-06,0,47,Groceries,Debit Card,Simulated transaction
+2025-11-07,0,39,Groceries,Cash,Simulated transaction
+2025-11-07,0,61,Transportation,Credit Card,Simulated transaction
+2025-11-08,0,88,Education,Transfer,Simulated transaction
+2025-11-09,0,115,Healthcare,Cash,Simulated transaction
+2025-11-10,0,147,Entertainment,Transfer,Simulated transaction
+2025-11-12,0,78,Entertainment,Debit Card,Simulated transaction
+2025-11-13,0,135,Dining Out,Cash,Simulated transaction
+2025-11-13,0,120,Transportation,Credit Card,Simulated transaction
+2025-11-14,0,89,Healthcare,Cash,Simulated transaction
+2025-11-14,0,17,Utilities,Transfer,Simulated transaction
+2025-11-14,0,141,Education,Transfer,Simulated transaction
+2025-11-15,2780,102,Transportation,Transfer,Simulated transaction
+2025-11-15,0,70,Groceries,Debit Card,Simulated transaction
+2025-11-15,0,30,Transportation,Credit Card,Simulated transaction
+2025-11-16,0,79,Utilities,Credit Card,Simulated transaction
+2025-11-17,0,21,Shopping,Debit Card,Simulated transaction
+2025-11-18,0,87,Groceries,Debit Card,Simulated transaction
+2025-11-18,0,35,Shopping,Credit Card,Simulated transaction
+2025-11-19,0,65,Shopping,Debit Card,Simulated transaction
+2025-11-20,0,122,Education,Cash,Simulated transaction
+2025-11-21,0,56,Entertainment,Cash,Simulated transaction
+2025-11-22,0,87,Healthcare,Transfer,Simulated transaction
+2025-11-23,0,124,Education,Cash,Simulated transaction
+2025-11-24,0,116,Healthcare,Cash,Simulated transaction
+2025-11-24,0,47,Groceries,Cash,Simulated transaction
+2025-11-24,0,24,Transportation,Transfer,Simulated transaction
+2025-11-25,0,37,Healthcare,Debit Card,Simulated transaction
+2025-11-26,0,26,Shopping,Cash,Simulated transaction
+2025-11-26,0,135,Utilities,Transfer,Simulated transaction
+2025-11-26,0,22,Shopping,Transfer,Simulated transaction
+2025-11-27,0,147,Entertainment,Cash,Simulated transaction
+2025-11-28,0,120,Groceries,Transfer,Simulated transaction
+2025-11-29,0,43,Utilities,Cash,Simulated transaction
+2025-11-29,0,122,Education,Transfer,Simulated transaction
+2025-11-29,0,51,Transportation,Credit Card,Simulated transaction
+2025-11-30,3112,35,Entertainment,Transfer,Simulated transaction
+2025-11-30,0,68,Groceries,Credit Card,Simulated transaction
+2025-12-01,0,130,Dining Out,Credit Card,Simulated transaction
+2025-12-01,0,30,Dining Out,Debit Card,Simulated transaction
+2025-12-02,0,121,Healthcare,Transfer,Simulated transaction
+2025-12-02,0,64,Education,Credit Card,Simulated transaction
+2025-12-03,0,40,Transportation,Transfer,Simulated transaction
+2025-12-03,0,45,Dining Out,Transfer,Simulated transaction
+2025-12-03,0,75,Utilities,Transfer,Simulated transaction
+2025-12-04,0,88,Entertainment,Debit Card,Simulated transaction
+2025-12-04,0,122,Utilities,Debit Card,Simulated transaction
+2025-12-04,0,71,Education,Credit Card,Simulated transaction
+2025-12-05,0,35,Education,Cash,Simulated transaction
+2025-12-05,0,79,Dining Out,Debit Card,Simulated transaction
+2025-12-06,0,28,Entertainment,Transfer,Simulated transaction
+2025-12-08,0,46,Utilities,Debit Card,Simulated transaction
+2025-12-08,0,86,Entertainment,Cash,Simulated transaction
+2025-12-09,0,19,Utilities,Credit Card,Simulated transaction
+2025-12-09,0,147,Healthcare,Transfer,Simulated transaction
+2025-12-10,0,139,Education,Transfer,Simulated transaction
+2025-12-11,0,82,Dining Out,Credit Card,Simulated transaction
+2025-12-11,0,47,Shopping,Cash,Simulated transaction
+2025-12-11,0,103,Transportation,Cash,Simulated transaction
+2025-12-12,0,71,Dining Out,Transfer,Simulated transaction
+2025-12-13,0,129,Dining Out,Cash,Simulated transaction
+2025-12-13,0,85,Shopping,Cash,Simulated transaction
+2025-12-14,0,73,Education,Debit Card,Simulated transaction
+2025-12-14,0,20,Education,Credit Card,Simulated transaction
+2025-12-15,2728,14,Transportation,Cash,Simulated transaction
+2025-12-15,0,261,Savings,Transfer,Simulated transaction
+2025-12-17,0,49,Groceries,Transfer,Simulated transaction
+2025-12-18,0,23,Education,Transfer,Simulated transaction
+2025-12-18,0,134,Transportation,Debit Card,Simulated transaction
+2025-12-19,0,62,Shopping,Transfer,Simulated transaction
+2025-12-19,0,48,Education,Cash,Simulated transaction
+2025-12-20,0,76,Utilities,Cash,Simulated transaction
+2025-12-20,0,51,Transportation,Transfer,Simulated transaction
+2025-12-21,0,47,Entertainment,Credit Card,Simulated transaction
+2025-12-22,0,42,Dining Out,Debit Card,Simulated transaction
+2025-12-23,0,19,Groceries,Credit Card,Simulated transaction
+2025-12-24,0,47,Utilities,Credit Card,Simulated transaction
+2025-12-25,0,118,Entertainment,Transfer,Simulated transaction
+2025-12-25,0,24,Entertainment,Credit Card,Simulated transaction
+2025-12-25,0,14,Education,Credit Card,Simulated transaction
+2025-12-26,0,85,Entertainment,Credit Card,Simulated transaction
+2025-12-26,0,104,Groceries,Cash,Simulated transaction
+2025-12-26,0,45,Transportation,Debit Card,Simulated transaction
+2025-12-27,0,20,Dining Out,Debit Card,Simulated transaction
+2025-12-27,0,47,Education,Debit Card,Simulated transaction
+2025-12-28,0,120,Education,Transfer,Simulated transaction
+2025-12-29,0,77,Entertainment,Credit Card,Simulated transaction
+2025-12-29,0,46,Education,Transfer,Simulated transaction
+2025-12-30,3103,250,Savings,Credit Card,Simulated transaction
+2025-12-30,0,50,Education,Debit Card,Simulated transaction
+2025-12-30,0,10,Healthcare,Debit Card,Simulated transaction
+2025-12-31,0,99,Dining Out,Debit Card,Simulated transaction
